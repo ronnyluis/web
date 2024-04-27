@@ -1,0 +1,764 @@
+body
+{
+	background-color: #d3dcda;
+}
+#fila_1_1
+{
+    height: 50px;
+    background: #87CEEB;
+    padding-left: 100px;
+}
+#fila_1_1 h5{
+    color: #45050F;
+}
+#fila_1_2
+{
+    height: 50px;
+    background: #87CEEB;
+    padding-left: 310px;
+}
+#fila_1_2 h5{
+    color: #45050F;
+    padding-top: 10px;
+}
+#g_banner
+{
+    background: #87CEEB;
+    padding-right: 0px;
+    padding-left: 35px;
+}
+/*@media(min-width:1030px){
+    #fila_1_3{
+        height: 350px;
+    }
+}
+
+@media(max-width:1030px){
+    #fila_1_3{
+        height: 325px;
+    }
+}
+@media (max-width: 768px){
+    #fila_1_3{
+        height: 250px;
+    }
+}
+@media (max-width: 480px){
+    #fila_1_3{
+        height: 100px;
+    }
+}*/
+
+
+
+#fila_1_4
+{
+    background: #87CEEB;
+    height: 170px;
+    padding: 4px 43px;
+}
+#fila_1_5,#fila_1_6,#fila_1_7,#fila_1_8,#fila_1_9
+{
+    background: #87CEEB;
+    height: 170px;
+    text-align: center;
+    padding: 50px 10px;
+    /*border: 3px solid #2509CA;*/
+}
+
+/*@media(min-width:500px){
+    .menu{
+        height: 100px;
+    }
+}
+
+@media(max-width:500px){
+    .menu{
+        height: 85px;
+    }
+}*/
+
+
+#fila_1_10
+{
+    background: #87CEEB;
+    height: 170px;
+}
+#fila_1_5:hover,#fila_1_6:hover,#fila_1_7:hover,#fila_1_8:hover,#fila_1_9:hover
+{
+    background: #4d67e9;
+    /*cursor: pointer;*/
+}
+
+#fila_1_5 a h3:hover,#fila_1_6 a h3:hover,#fila_1_7 a h3:hover,#fila_1_8 a h3:hover,#fila_1_9 a h3:hover
+{
+    /*color: #040404;*/
+    text-decoration: underline;
+}
+
+#g1 h3
+{
+    color: #F9F9F7;
+}
+#g1 a
+{
+    text-decoration: none;
+}
+
+
+#g2
+{
+    height: 250px;
+    /*border: 3px solid #2509CA;*/
+    /*background: rgba( 226, 232, 232, 0.9 );*/
+    background: #F4F4F4;
+}
+#fila_2_1 p
+{
+    text-align: justify;
+}
+#fila_2_1
+{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+#fila_2_2 img
+{
+    padding: 25px;
+}
+#fila_2_2
+{
+    padding-top: 20px;
+}
+
+
+
+#g3
+{
+    height: 350px;
+    background: #1c2121;
+}
+#fila_3_1
+{
+    text-align: justify;
+    color: aliceblue;
+    padding-left: 60px;
+    padding-top: 90px;
+}
+#fila_3_2
+{
+    padding-left: 100px;
+}
+
+#intermedio
+{
+    background-image: url(../img/fon-index3.jpg);
+    /*background: #EEEEEE;*/
+    height: 530px;
+}
+#inter-1
+{
+    margin: 70px auto;
+    margin-left: 140px;
+}
+#inter-2
+{
+    margin-left: 210px;
+}
+#inter-3
+{
+    margin-left: 480px;
+}
+
+#g4
+{
+    background: #6a7d8a;
+}
+#g4 h3:hover
+{
+    color: #6e585b;
+}
+#g4 h3
+{
+    color: #e8f2f2;
+}
+#p1
+{
+    padding: 2px 3px;
+    background: rgba( 211, 224, 60, 0.9 );
+    color: rgba( 191, 27, 27, 0.9 );     
+}
+#p2
+{
+    padding: 3px 10px 2px 10px;
+    background: rgba( 33, 22, 22, 0.9 );
+    color: aliceblue;
+}
+#p3
+{
+    padding: 3px 10px 2px 10px;
+    background: rgba( 33, 22, 22, 0.9 );
+    color: aliceblue;
+    
+}
+#p1:hover
+{
+    color: aliceblue;
+}
+#p3:hover, #p2:hover
+{
+    color: cornflowerblue;
+}
+#fila_3_4
+{
+    text-align: center
+}
+
+
+#g4
+{
+    background: #6a7d8a;
+    height: 140px;
+    background:  url(../img/textura1.png);
+}
+#g4 h1
+{
+    color: #e8f2f2;
+    padding-left: 110px;
+    padding-top: 25px;
+}
+#fila_4_2
+{
+    padding-top: 30px;
+    padding-left: 150px;
+}
+#fila_4_2 a img
+{
+     transition: 1.0s ease;
+     -webkit-transition:1.0s ease;
+     text-align: center;
+}
+#fila_4_2 a img:hover
+{
+     transform: scale(1.5);
+     -webkit-transform:scale(1.5);
+}
+#g5
+{
+    height: 350px;
+    background: url(../img/fondo1index.jpg);
+    padding-top: 60px;
+    color: #FFFFFF;
+}
+
+#fila_5_1
+{
+    text-align: justify;
+    padding-left: 40px;
+}
+#fila_5_2
+{
+    padding-left: 90px;
+}
+#fila_5_2 li
+{
+    list-style:url(../img/li.gif);
+}
+#fila_5_2 li a 
+{
+    color:#3399CC;
+}
+#fila_5_2 li a:hover 
+{
+    color: #F7F7F7;
+    text-decoration:underline;
+}
+#fila_5_2 li
+{
+    padding-top: 7px;
+}
+#fila_5_2 li a
+{
+    text-decoration: none;
+}
+#fila_5_4
+{
+    padding-top: 45px;
+}
+
+#fila_final
+{
+  background:  url(../img/slide_fade.png);
+  height:95px;
+  /*margin-top:10px;*/ /*separa la caja de la otra*/
+  text-align:center;
+  padding-top:20px;
+  color: aliceblue;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#g_nosotros
+{
+    height: auto;
+}
+#fila_0_nosotros
+{
+    background: #FFFFFF;
+}
+#fila_0_nosotros h1
+{
+    padding-left: 50px;
+    padding-top: 20px;
+    color: #93ca3a;
+    font-size: 44px;
+}
+#fila_1_nosotros
+{
+    height: 340px;
+    /*border: 3px solid #2509CA; */
+    background: #FFFFFF;
+}
+/*------------etiqueta b es negrita-------------*/
+/*------------etiqueta u es subrrayado-------------*/
+/*------------etiqueta i es cursiva-------------*/
+#fila_1_nosotros p
+{
+    text-align: justify;
+    /*padding: 10px 20px 0px 20px;*/
+    padding-left: 50px;
+    /*font-family: arial underline;*/
+    word-spacing: 4px;
+    padding-top: 40px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+#fila_1_nosotros p #text1{
+     font-weight: bold;    /*para poner en negrita el texto seleccionado*/
+}
+#fila_2_nosotros
+{
+    height: 340px;
+    /*border: 3px solid #2509CA;/*
+    /*padding: 20px 50px; */
+    padding-right: 40px;
+    background: #FFFFFF;
+    padding-top: 50px;
+}
+#fila_2_nosotros p
+{
+    text-align: justify;
+}
+#fila_4_nosotros,#fila_5_nosotros
+{
+    background: #FFFFFF;
+    height: 400px;
+    padding-top: 55px;
+    padding-left: 60px;
+}
+#fila_4_nosotros p,#fila_5_nosotros p
+{
+    text-align: justify;
+    /*border: 3px solid #2509CA;*/ >>>/*-------poner borde a la capa-------------*/
+    padding-left: 55px;
+    padding-right: 40px;
+    color: #000000;
+}
+#tr td
+{
+    background: #FFFFFF;
+    color: #FFFFFF;
+    width: 150px;
+    height: 150px;
+    -moz-border-radius=50%;
+    -webkit-border-radius=50%;
+    border-radius: 50%;
+    text-align: center;
+    font-family: Cooper Black;
+    font-size: 25px;
+    /*text-shadow: 3px 5px 10px #000;*/
+    
+    color: #FF0000;
+    /*---------darle a la letra sombra-------------*/
+    /*text-shadow: 0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 30px #fff,
+        0 0 40px #00ff00,
+        0 0 70px #00ff00,
+        0 0 80px #00ff00,
+        0 0 100px #00ff00,
+        0 0 150px #00ff00;*/
+    
+    /*-----------poner la letra en 3D----------------*/
+    text-shadow: 0 1px 0 #bbb,
+        0 2px 0 #bbb,
+        0 3px 0 #aaa,
+        0 4px 0 #aaa,
+        0 5px 0 #999,
+        0 6px 1px #000,
+        0 0px 3px #000,
+        0 1px 3px #000,
+        0 3px 5px #000,
+        0 5px 10px #000,
+        0 5px 5px #000;
+}
+#tr
+{
+    transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+}
+#tr:hover
+{
+    transform: rotate(360deg);
+    -webkit-transform:rotate(360deg):
+}
+
+
+
+
+
+#grup-nosotros
+{
+    height: 750px;
+    background: #FFFFFF;
+}
+header, nav, main, section, article, figure {
+    display:block;
+}
+#grup{
+   
+    height:auto;
+    margin:30px auto;
+}
+
+header {
+    width:100%;
+    height:auto;
+}
+
+#grup header h1 {
+    height:60px;
+    background:#FFFFFF; 
+    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align:center;
+    color: #93ca3a;
+    font-size: 44px;
+}
+
+nav {
+    height:50px;
+    background:#FFFFFF;
+    margin-top:20px;
+}
+
+nav ul {
+    padding-top:10px;
+    text-align:center;
+    padding-left:50px;
+}
+
+nav ul li {
+    display:inline;
+    list-style-type:none;
+}
+
+nav ul li a, nav ul li a:link, nav ul li a:visited {
+    float:left;
+    width:200px;
+    height:25px;
+    color:#fff;
+    text-decoration:none;
+    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin:0 20px;
+    padding-top:5px;
+    background:#FC595C;
+}
+
+nav ul li a:hover {
+    color:#FF0000;
+    background:#fff;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #bbb,
+        0 2px 0 #bbb,
+        0 3px 0 #aaa,
+        0 4px 0 #aaa,
+        0 5px 0 #999,
+        0 6px 1px #000,
+        0 0px 3px #000,
+        0 1px 3px #000,
+        0 3px 5px #000,
+        0 5px 10px #000,
+        0 5px 5px #000;
+        font-size: 18px;
+}
+
+nav ul li a:active {
+    color:#fff;
+    background:#FC595C;
+}
+
+main {
+    position:relative;
+}
+
+section#tokyo {
+    width:820px;
+    height:480px;
+    background:#515151;
+    padding:20px;
+    position:absolute;
+    z-index:1;
+    top: 0px;
+    left: 115px;
+}
+
+section#akihabara, section#shinjuku, section#roppongi {
+    width:820px;
+    height:480px;
+    background:#515151;
+    padding:20px;
+    position:absolute;
+    z-index:auto;
+    top: 0px;
+    left: 115px;
+}
+
+section#akihabara, section#shinjuku, section#roppongi {
+    visibility:hidden;
+}
+
+section#tokyo article, section#akihabara article, section#shinjuku article, section#roppongi article {
+    float:left;
+}
+
+section#tokyo article h2, section#akihabara article h2, section#shinjuku article h2, section#roppongi article h2 {
+    width:480px;
+    height:60px;
+    background:#FC595C;
+    color:#fff;
+    text-align:center;
+    padding-top:5px;
+    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size:3em;
+    -webkit-transform:rotate(-90deg);
+    -moz-transform:rotate(-90deg);
+    transform:rotate(-90deg);
+    position:absolute;
+    left:-220px;
+    top:170px;  /*----para mover la letra-------*/
+}
+
+section#tokyo p, section#akihabara p, section#shinjuku p, section#roppongi p {
+    width:650px;
+    height:auto;
+    margin-left: 87px;
+    margin-right:80px;
+    padding-top:70px;
+    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color:#fff;
+    font-size:1.1em;
+    text-align:justify;
+}
+
+section#tokyo p{
+    padding-top: 8px;
+}
+section#akihabara p {
+    padding-top:70px;
+}
+
+section#shinjuku p {
+    padding-top:100px;
+}
+
+section#roppongi p {
+    padding-top:25px;
+}
+
+section#tokyo figure, section#akihabara figure, section#shinjuku figure, section#roppongi figure {
+    float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#g_servicios
+{
+    height: 480px;
+    background: #EFEFED;
+}
+#fila_1_servicios h2
+{
+    letter-spacing: 2px;
+    font-family: arial;
+}
+#fila_1_servicios
+{
+    padding-left: 60px;
+    padding-top: 40px;
+    padding-right: 60px;
+    font-family: arial underline;
+    word-spacing: 2px;
+}
+#fila_2_servicios
+{
+    padding-left: 60px;
+    font-family: arial underline;
+    word-spacing: 5px;
+    
+}
+#fila_3_servicios img
+{
+    padding: 0px 60px 0px 60px;
+    padding-left: 0px;
+}
+#fila_fotos
+{
+    background-image: url(../img/fondo-servicios.jpg);
+}
+#container
+{
+    width: 700px;
+    margin: 60px auto;
+}
+#container img
+{
+    cursor: pointer;
+}
+#previa
+{
+    background: rgba(0,0,0,0,5);
+    display: none;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#previa div
+{
+    margin: 1px auto;
+    width: 700px;
+}
+
+
+
+
+
+
+
+
+
+#g_excelencia 
+{
+    background: #FFFFFF;
+}
+#fila_1_excelencia
+{
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+#fila_2_excelencia{
+    padding-bottom: 60px;
+}
+#fila_3_excelencia{
+    padding-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+.contact{
+    /*background:url(../img/ubicacion.jpg) no-repeat 0px 0px;*/
+    /*background-size:cover;*/
+    /*padding: 1.5em 0 5em;*/
+    background-image: url(../img/ubicacion4.jpg); >>>>>>/*-----para colocar la imagen fija-----------*/
+    /*background-attachment: fixed;*/
+    height: 530px;
+}
+#g_contactanos h2{
+    font-size: 23px;
+    font-family: Buxton Sketch; 
+} 
+#g_contactanos p{
+    font-size: 20px;
+    font-family: Times Cambria negrita;
+    color: #FF0000;
+}
+#fila_contactanos
+{
+    background-image: url(../img/ubicacion3.jpg);
+    /*background-attachment: fixed;*/
+    padding-left: 100px;
+    padding-bottom: 10px;
+    margin: 80px;
+    width: 900px;
+    box-shadow: 0 0 30px 20px #000;   >>>>>/*-----------poner sombra a la imagen----------------*/
+}
+#fila_contactanos a img{
+    background: #f5f4f4;
+}
+/*------darle movimiento a la imagen--------------*/
+#fila_contactanos a img {
+-webkit-filter: grayscale(0%);
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+#fila_contactanos a img:hover{
+ border-radius: 0%;
+ -webkit-filter: grayscale(100%);
+-webkit-transform: rotate(360deg);
+-moz-transform: rotate(360deg);
+ -o-transform: rotate(360deg);
+-ms-transform: rotate(360deg);
+transform: rotate(360deg);
+}
+
+
+
+
+
+
+
+
+
+
